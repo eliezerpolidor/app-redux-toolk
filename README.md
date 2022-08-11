@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Importante.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+.- Este Proyecto es para Practicar Código REact-REdux-Toolikit.\
+.- Consite en traer basicamente una lista de usuarios (avatar, nombre, apellido, email), colocarlos en el estado global  y mostrarlos en pantalla.\
+.- El EndPoint lo tome de esta App la cual es gratuita: https: //reqres.in/ \
+.- Debes inspeccionar el archivo package.json para que vea cuales son las dependencias y librerias que tienes que instalar para que este proyecto le pue correr.
 
 ## Available Scripts
 
